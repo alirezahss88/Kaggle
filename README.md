@@ -14,11 +14,12 @@ Dependencies:
 - Sci-Kit learn
 
 Employed algorithms:
-- KNN IMPUTER
-- OneHotEncoding
-- StandardScaler
-- LogisticRegression
-- RandomForestClassification
+- [KNNimputer](https://scikit-learn.org/stable/modules/generated/sklearn.impute.KNNImputer.html)
+- [OneHotEncoder](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html)
+- [StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)
+- [RandomOverSampler](https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.RandomOverSampler.html)
+- [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+- [RandomForestClassification](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 
 Accuracy:
 
