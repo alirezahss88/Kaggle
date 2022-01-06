@@ -25,3 +25,7 @@ Accuracy:
 
 The code obtains about 88% of validation accuracy(cv=5), and 82% of accuracy on the test dataset.
  
+
+## 2- MNIST - DIGIT RECOGNIZER
+
+UNDER CONSTRUCTION :D
