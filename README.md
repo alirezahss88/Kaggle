@@ -31,7 +31,7 @@ Employed algorithms:
 
 ### The training and test accuracies are 99.46% and 99.44%.
 
-Two convolutional and one fully connected linear layer are employed.
+Two convolutional and one fully connected linear layers are employed.
 
 Dependencies:
 - Numpy
