@@ -28,4 +28,13 @@ The code obtains about 88% of validation accuracy(cv=5), and 82% of accuracy on 
 
 ## 2- MNIST - DIGIT RECOGNIZER
 
-UNDER CONSTRUCTION :D
+- [Kaggle link to the competition](https://www.kaggle.com/c/digit-recognizer)
+### The training and test accuracies are 99.46% and 99.44%.
+Two convolutional and one fully connected linear layer are employed.
+
+Dependencies:
+- Numpy
+- Matplotlib
+- Seaborn
+- Pytorch
+- Torchvision
